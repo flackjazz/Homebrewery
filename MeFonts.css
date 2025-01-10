@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'blasons_freeregular';
+    font-family: 'blasons';
     src: url('blasons_free-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -14,7 +14,7 @@
 
 
 @font-face {
-    font-family: 'wappenregular';
+    font-family: 'wappen';
     src: url('wappen-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -25,7 +25,7 @@
 
 
 @font-face {
-    font-family: 'eagleregular';
+    font-family: 'eagle';
     src: url('eagle-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -36,7 +36,7 @@
 
 
 @font-face {
-    font-family: 'free_medievalregular';
+    font-family: 'medieval';
     src: url('free_medieval-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -47,7 +47,7 @@
 
 
 @font-face {
-    font-family: 'glagolitsaregular';
+    font-family: 'glagolitsa';
     src: url('glagolitsa-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -58,7 +58,7 @@
 
 
 @font-face {
-    font-family: 'heraldicdevicesregular';
+    font-family: 'heraldicdevices';
     src: url('heraldic_devices-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -69,7 +69,7 @@
 
 
 @font-face {
-    font-family: 'imperioromanomedium';
+    font-family: 'imperioromano';
     src: url('imperio_romano-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -80,7 +80,7 @@
 
 
 @font-face {
-    font-family: 'intellectaheraldicsregular';
+    font-family: 'intellectaheraldics';
     src: url('intellectaheraldics-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -91,7 +91,7 @@
 
 
 @font-face {
-    font-family: 'lionsregular';
+    font-family: 'lions';
     src: url('lions-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
