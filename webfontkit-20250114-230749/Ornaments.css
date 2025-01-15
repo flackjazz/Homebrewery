@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'cornpopregular';
+    font-family: 'cornpop';
     src: url('cornpop-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -14,7 +14,7 @@
 
 
 @font-face {
-    font-family: 'cornpopregular';
+    font-family: 'cornpop2';
     src: url('cornpop-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -25,7 +25,7 @@
 
 
 @font-face {
-    font-family: 'pirates_tworegular';
+    font-family: 'pirates';
     src: url('piratestwo-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
